@@ -1,17 +1,11 @@
-# Simple Calculator
+# Stylish Calculator
 
-A basic web calculator built using HTML, CSS, and JavaScript.
+A modern and colorful calculator built using HTML, CSS, and JavaScript.
 
 ## Features
-- Addition, subtraction, multiplication, division
-- Clear and reset function
-- Clean and responsive design
+- Responsive layout
+- Stylish UI with animations
+- All basic operations
 
 ## How to Run
-1. Clone or download the project files.
-2. Open `index.html` in your browser.
-
-## Files
-- `index.html` – main structure
-- `style.css` – styling the calculator
-- `script.js` – calculator logic
+1. Open `index.html` in your browser.
